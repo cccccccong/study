@@ -1,2 +1,2 @@
 # study
-daily study
+something record
