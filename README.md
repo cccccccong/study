@@ -1,2 +1,2 @@
 # study
-something record
+something record, mainly for literacy.
